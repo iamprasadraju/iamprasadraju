@@ -93,4 +93,3 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<iframe src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://drive.google.com/file/d/1nSMK8-BgaUDqE3ehzomzGFqsFz21spix/preview" width="100%" height="600px"></iframe>

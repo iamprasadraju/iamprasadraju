@@ -93,4 +93,4 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<embed src="https://raw.githubusercontent.com/iamprasadraju/iamprasadraju/main/resume.pdf" width="600" height="400">
+<iframe src="https://drive.google.com/file/d/1nSMK8-BgaUDqE3ehzomzGFqsFz21spix/preview" width="640" height="480" allow="autoplay"></iframe>

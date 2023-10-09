@@ -2,6 +2,7 @@
   <h2>Skills💻</h2>
   <br>
 </div>
+<h4>Programming Languages</h4>
 
 ![My Skills](https://skillicons.dev/icons?i=py,html,css,js)
 

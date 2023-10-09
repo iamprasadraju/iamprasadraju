@@ -6,6 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+There+👋;MY+Self+Prasad+Raju;Computer+Science+Student;Self-taught;I'm+Truly+Passionate+about+Technology"></a>
 </p>
 <div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <picture>
 <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
 </picture>
@@ -13,7 +14,7 @@
 <p align="right">Hi 👋! My name is Prasad Raju and I am Pursuing a Career in Artificial Intelligence and Emerging Technologies</p>
 </div>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <div align = "center">
   <h2>Skills💻</h2>
@@ -46,6 +47,7 @@
 </p>
 <br>
 <br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <div align = "center">
   <h2>Learning📖</h2>
   <br>
@@ -56,6 +58,7 @@
 </p>
 <br>
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br>
   <picture>

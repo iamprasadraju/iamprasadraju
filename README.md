@@ -5,10 +5,13 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+There+👋;MY+Self+Prasad+Raju;Computer+Science+Student;Self-taught;I'm+Truly+Passionate+about+Technology"></a>
 </p>
+<div>
+<picture>
+<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
+</picture>
 
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-<h2 align="center">Hi 👋! My name is Prasad Raju <br>and <br> I am Pursuing a Career in Artificial Intelligence and Emerging Technologies</h2>
-
+<h2>Hi 👋! My name is Prasad Raju <br>and <br> I am Pursuing a Career in Artificial Intelligence and Emerging Technologies</h2>
+</div>
 
 
 

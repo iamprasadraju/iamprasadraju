@@ -7,10 +7,10 @@
 </p>
 <div>
 <picture>
-<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
+<img align ="left" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
 </picture>
 
-<p>Hi 👋! My name is Prasad Raju <br>and <br> I am Pursuing a Career in Artificial Intelligence and Emerging Technologies</p>
+<p align="right">Hi 👋! My name is Prasad Raju <br>and <br> I am Pursuing a Career in Artificial Intelligence and Emerging Technologies</p>
 </div>
 
 

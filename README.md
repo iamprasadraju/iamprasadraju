@@ -2,7 +2,9 @@
   <img height="150" src="https://i.pinimg.com/originals/6e/2b/ec/6e2bec0bc02b6ce8b1a375cc2ae7a2d4.gif"  />
 </div>
 
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+There+👋;++;MY+Self+Prasad+Raju;Computer+Science+Student,;Self-taught,;Truly+Passionate+about+Technology"></a>
+</p>
 
 
 

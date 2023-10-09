@@ -18,14 +18,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<div align = "center">
-  <h2>Skills💻</h2>
+  <h2 align = "center">Skills💻</h2>
   <br>
-</div>
-<div align = "left">
- <p>Programming Languages :-</p>
+ <p align = "left">Programming Languages :-</p>
   <br>
-</div>
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=py,html,css,js" />

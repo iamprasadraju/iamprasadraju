@@ -92,4 +92,4 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<embed src="https://pdfviewer.io/viewer.html?file=https://github.com/iamprasadraju/iamprasadraju/blob/main/resume.pdf" width="600" height="400">
+[Download PDF](https://raw.githubusercontent.com/iamprasadraju/iamprasadraju/main/resume.pdf)

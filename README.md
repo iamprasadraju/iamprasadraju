@@ -3,7 +3,7 @@
   <br>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js)]
+![My Skills](https://skillicons.dev/icons?i=py,html,css,js)
 
 
 

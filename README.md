@@ -20,7 +20,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-  <h2 align = "center" color="blue">Skills💻</h2>
+  <h2 align = "center" style="background-color:powderblue;>Skills💻</h2>
   <br>
  <p align = "left">Programming Languages :-</p>
   <br>

@@ -1,3 +1,12 @@
+<div align = "center">
+  <h2>Skills</h2>
+  <br>
+</div>
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,)](https://skillicons.dev)
+
+
+
+
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br>

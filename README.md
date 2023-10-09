@@ -10,7 +10,7 @@
 <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
 </picture>
 
-<h2>Hi 👋! My name is Prasad Raju <br>and <br> I am Pursuing a Career in Artificial Intelligence and Emerging Technologies</h2>
+<p>Hi 👋! My name is Prasad Raju <br>and <br> I am Pursuing a Career in Artificial Intelligence and Emerging Technologies</p>
 </div>
 
 

@@ -67,3 +67,26 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/iamprasadraju/iamprasadraju/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+<h2 align= "left">Contact Through -</h2>
+<br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/iamprasadraju/" target="_blank">
+    <img src="https://iamprasadraju.github.io/social_media/linkedin.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://linktr.ee/iamprasadraju" target="_blank">
+   <img src="https://iamprasadraju.github.io/social_media/linktree.svg" width="52" height="40" alt="linktree logo"  />
+  </a>
+  <a href="https://twitter.com/imprasadraju" target="_blank">
+    <img src="https://iamprasadraju.github.io/social_media/twitter.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="mailto:g.leelasaiprasadraju@gmail.com" target="_blank">
+    <img src="https://iamprasadraju.github.io/social_media/gmail.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://discord.gg/CwS3St3Qkz" target="_blank">
+    <img src="https://iamprasadraju.github.io/social_media/discord.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/iamprasadraju" target="_blank">
+    <img src="https://iamprasadraju.github.io/social_media/instagram.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>

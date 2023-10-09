@@ -27,6 +27,8 @@
     <img src="https://skillicons.dev/icons?i=vscode,vim,git,github," />
   </a>
 </p>
+<br>
+<br>
 <div align = "center">
   <h2>Learning📖</h2>
   <br>
@@ -35,6 +37,7 @@
     <img src="https://skillicons.dev/icons?i=figma,linux,mongodb,mysql,pytorch,react,tensorflow" />
   </a>
 </p>
+<br>
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br>

@@ -3,7 +3,7 @@
   <br>
 </div>
 <div align = "left">
- <p>Programming Languages</p>
+ <p>Programming Languages :-</p>
   <br>
 </div>
 
@@ -11,7 +11,22 @@
     <img src="https://skillicons.dev/icons?i=py,html,css,js" />
   </a>
 </p>
-
+<div align = "left">
+ <p>Frameworks :-</p>
+  <br>
+</div>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=django,flask" />
+  </a>
+</p>
+<div align = "left">
+ <p>Tools :-</p>
+  <br>
+</div>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,vim,git,github," />
+  </a>
+</p>
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br>

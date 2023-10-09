@@ -3,7 +3,7 @@
   <br>
 </div>
 <div align = "left">
- <h4>Programming Languages</h4>
+ <p>Programming Languages</p>
   <br>
 </div>
 

@@ -5,8 +5,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+There+👋;MY+Self+Prasad+Raju;Computer+Science+Student;Self-taught;I'm+Truly+Passionate+about+Technology"></a>
 </p>
+
  <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=iamprasadraju.iamprasadraju&left_color=black&right_color=green"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=iamprasadraju.iamprasadraju&left_color=black&right_color=green" />
 </div>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>

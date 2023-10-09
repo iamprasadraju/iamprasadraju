@@ -7,11 +7,10 @@
   <br>
 </div>
 
-
-![My Skills](https://skillicons.dev/icons?i=py,html,css,js)
-
-
-
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=py,html,css,js" />
+  </a>
+</p>
 
 <div align="center">
   <h2>🐍 Snake eating my contribution 🐍</h2>

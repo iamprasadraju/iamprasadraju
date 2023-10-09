@@ -13,7 +13,9 @@
 <img align="left" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px>
 </picture>
 <p align="left" >Hi 👋! My name is Prasad Raju and I am Pursuing a Career in Artificial Intelligence and Emerging Technologies</p>
-  <P>Indian 🇮🇳</P>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=iamprasadraju.iamprasadraju&left_color=black&right_color=green"  />
+</div>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>

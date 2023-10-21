@@ -93,4 +93,4 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<img src="https://iamprasadraju.github.io/MY-RESUME/resume.pdf%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%2010_9_2023%206_24_30%20PM.png">
+<img src="https://iamprasadraju.github.io/MY-RESUME/My%20resume.png">

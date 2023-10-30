@@ -69,7 +69,7 @@
 <br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-  # 🐍 Snake eating my contribution 🐍
+  <h2>🐍 Snake eating my contribution 🐍</h2>
   <br>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamprasadraju/iamprasadraju/output/github-contribution-grid-snake-dark.svg">

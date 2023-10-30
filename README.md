@@ -20,6 +20,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+### Certificates
+
+- [Certificate 1](https://certificates.cs50.io/d0afa6a6-cd2a-41c0-bfbc-64edeffd7fa8.png?size=letter)
+
+
+
   <h2 align = "center" style="color:blue;">Skills💻</h2>
   <br>
  <p align = "left">Programming Languages :-</p>

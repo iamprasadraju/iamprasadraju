@@ -30,7 +30,7 @@
 
 
 
-  <h2 align = "center" style="color:blue;">Skills💻</h2>
+  # Skills💻
   <br>
  <p align = "left">Programming Languages :-</p>
   <br>
@@ -69,7 +69,7 @@
 <br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-  <h2>🐍 Snake eating my contribution 🐍</h2>
+  # 🐍 Snake eating my contribution 🐍
   <br>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamprasadraju/iamprasadraju/output/github-contribution-grid-snake-dark.svg">
@@ -80,7 +80,7 @@
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 </div>
 
-<h2 align= "left">Contact Through -</h2>
+# Contact Through
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/iamprasadraju/" target="_blank">

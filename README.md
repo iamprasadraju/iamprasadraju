@@ -22,9 +22,8 @@
 
 ### Certificates
 <center>
-  <img src="https://certificates.cs50.io/d0afa6a6-cd2a-41c0-bfbc-64edeffd7fa8.png?size=letter">
-  
-- [Introduction to Python Programming by Harvard University](https://certificates.cs50.io/d0afa6a6-cd2a-41c0-bfbc-64edeffd7fa8.png?size=letter)
+  <h2> Introduction to Programming with Python by Harvard University </h2>
+  <img src="https://certificates.cs50.io/d0afa6a6-cd2a-41c0-bfbc-64edeffd7fa8.png?size=letter" style="pointer-events:none;">
 </center>
 
 

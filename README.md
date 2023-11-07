@@ -13,7 +13,7 @@
 
 <div align="center">
   
-### ✍️ Quote of the Day -
+### ✍️  𝕼𝖚𝖔𝖙𝖊 𝖔𝖋 𝖙𝖍𝖊 𝕯𝖆𝖞-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 </div>
 

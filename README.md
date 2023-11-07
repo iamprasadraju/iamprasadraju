@@ -1,20 +1,8 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/6e/2b/ec/6e2bec0bc02b6ce8b1a375cc2ae7a2d4.gif"  />
+<img src = "https://iamprasadraju.github.io/social_media/about_me.gif" width = 150px>
 </div>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+There+👋;My+Self+Prasad+Raju;Computer+Science+Student;Self-taught;I'm+Truly+Passionate+about+Technology"></a>
-</p>
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<div>
-<picture>
-<img align="left" src = "https://iamprasadraju.github.io/social_media/about_me.gif" width = 50px>
-</picture>
-<p align="left" >Hi 👋! My name is Prasad Raju and I am Pursuing a Career in Artificial Intelligence and Emerging Technologies.</p>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br><br>
 
 # Certificates ✨
 <center>

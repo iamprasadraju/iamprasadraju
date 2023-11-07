@@ -3,12 +3,7 @@
 </div>
 <br><br>
 
-# Certificates ✨
-<center>
-        
-  - ### Introduction to Programming with Python by Harvard University :-
-  <img src="https://certificates.cs50.io/d0afa6a6-cd2a-41c0-bfbc-64edeffd7fa8.png?size=letter" style="pointer-events:none;">
-</center>
+
 
 
 
@@ -134,3 +129,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <h1>My Resume: </h1>
 <img src="https://iamprasadraju.github.io/MY-RESUME/My%20resume.png">
+<br>
+# Certificates ✨
+<center>
+        
+  - ### Introduction to Programming with Python by Harvard University :-
+  <img src="https://certificates.cs50.io/d0afa6a6-cd2a-41c0-bfbc-64edeffd7fa8.png?size=letter" style="pointer-events:none;">
+</center>

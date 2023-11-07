@@ -130,6 +130,7 @@
 <h1>My Resume: </h1>
 <img src="https://iamprasadraju.github.io/MY-RESUME/My%20resume.png">
 <br>
+
 # Certificates ✨
 <center>
         

@@ -1,17 +1,28 @@
 <div align="center">
+  
+# 𝓟𝓻𝓪𝓼𝓪𝓭 𝓡𝓪𝓳𝓾 𝑮
+
 <img src = "https://iamprasadraju.github.io/social_media/about_me.gif" width = 150px>
+<br>
+<br>
+  
+[![](https://visitcount.itsvg.in/api?id=iamprasadraju&icon=0&color=12)](https://visitcount.itsvg.in)
 </div>
 <br><br>
 
 
+<div align="center">
+  
+### ✍️ Quote of the Day -
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+</div>
 
 
 
-
-# Skills💻:
+#  𝓢𝓴𝓲𝓵𝓵𝓼 💻:
   <br>
   
- - **Programming Languages**:
+ - **𝑷𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔**:
   <br>
 
   <div align="center">
@@ -26,7 +37,7 @@
 
 <div align = "left">
   
- - **Frameworks**:
+ - **𝑭𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌𝒔**:
   <br>
 </div>
 <div align="center">
@@ -37,7 +48,7 @@
 </div>
 <div align = "left">
   
-- **Tools**:
+- **𝑻𝒐𝒐𝒍𝒔**:
   <br>
 </div>
 <div align="center">
@@ -52,8 +63,9 @@
   
 </div>
 <div align = "left">
+<br>
   
-- **Operating Systems** :
+- **𝑶𝒑𝒆𝒓𝒂𝒕𝒊𝒏𝒈 𝑺𝒚𝒔𝒕𝒆𝒎𝒔** :
   <br>
 </div>
 
@@ -64,7 +76,7 @@
   ![Windows](https://img.shields.io/badge/WINDOWS%20-0000FF?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 </div>
   
-- **Command line** :
+- **𝑪𝒐𝒎𝒎𝒂𝒏𝒅 𝒍𝒊𝒏𝒆** :
 <br>
   
   <div align="center">
@@ -79,7 +91,7 @@
 
 <div align="center" >
   
-  # Learning📖:
+  # 𝕷𝖊𝖆𝖗𝖓𝖎𝖓𝖌 📖:
   <br>
 </div> 
 
@@ -101,7 +113,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# Contact Through ✉️
+# 𝕮𝖔𝖓𝖙𝖆𝖈𝖙 𝕿𝖍𝖗𝖔𝖚𝖌𝖍 ✉️
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/iamprasadraju/" target="_blank">
@@ -127,13 +139,12 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<h1>My Resume: </h1>
+<h1>𝕸𝖞 𝕽𝖊𝖘𝖚𝖒𝖊: </h1>
 <img src="https://iamprasadraju.github.io/MY-RESUME/My%20resume.png">
 <br>
 
-# Certificates ✨
+# 𝕮𝖊𝖗𝖙𝖎𝖋𝖎𝖈𝖆𝖙𝖊𝖘 ✨
+### 𝓘𝓷𝓽𝓻𝓸𝓭𝓾𝓬𝓽𝓲𝓸𝓷 𝓽𝓸 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓶𝓲𝓷𝓰 𝔀𝓲𝓽𝓱 𝓟𝔂𝓽𝓱𝓸𝓷 𝓫𝔂 𝓗𝓪𝓻𝓿𝓪𝓻𝓭 𝓤𝓷𝓲𝓿𝓮𝓻𝓼𝓲𝓽𝔂:-
 <center>
-        
-  - ### Introduction to Programming with Python by Harvard University :-
   <img src="https://certificates.cs50.io/d0afa6a6-cd2a-41c0-bfbc-64edeffd7fa8.png?size=letter" style="pointer-events:none;">
 </center>

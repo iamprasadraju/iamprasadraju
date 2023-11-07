@@ -119,11 +119,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
   <h2>🐍 Snake eating my contribution 🐍</h2>
   <br>
-  <picture>
   <img alt="github contribution grid snake animation" src="https://iamprasadraju.github.io/iamprasadraju/github-contribution-grid-snake-dark.svg">
-</picture>
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
 </div>
 
 # Contact Through

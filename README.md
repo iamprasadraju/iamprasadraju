@@ -99,7 +99,7 @@
 ![PANDAS](https://img.shields.io/badge/PANDAS-FFFFFF?style=for-the-badge&logo=pandas&logoColor=0000FF)&nbsp;
   ![Tensoeflow](https://img.shields.io/badge/tensorflow-ffffff?style=for-the-badge&logo=tensorflow&logoColor=yellow)&nbsp;
   ![React.js](https://img.shields.io/badge/REACT.JS-ADD8E6?style=for-the-badge&logo=react&logoColor=0000ff)&nbsp;
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+  ![Figma](https://img.shields.io/badge/Figma-pink?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
   
 </div>
 <br>

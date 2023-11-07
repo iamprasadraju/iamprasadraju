@@ -117,13 +117,8 @@
 <br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br>
-</div>
 
-![SNAKE ANIMATION](https://iamprasadraju.github.io/iamprasadraju/github-contribution-grid-snake-dark.svg)
-
-# Contact Through
+# Contact Through ✉️
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/iamprasadraju/" target="_blank">
@@ -145,6 +140,8 @@
     <img src="https://iamprasadraju.github.io/social_media/instagram.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 

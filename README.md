@@ -1,7 +1,6 @@
 <div align="center">
   
-# 𝓟𝓻𝓪𝓼𝓪𝓭 𝓡𝓪𝓳𝓾 𝑮
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=50&pause=1000&color=FF0000&random=false&width=435&lines=Prasad+Raju+G)](https://git.io/typing-svg)
 <img src = "https://iamprasadraju.github.io/social_media/about_me.gif" width = 150px>
 <br>
 <br>

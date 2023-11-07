@@ -1,7 +1,19 @@
 <div align="center">
 <img src = "https://iamprasadraju.github.io/social_media/about_me.gif" width = 150px>
 </div>
-
+<style>
+        @font-face {
+            font-family: 'MyriadPro';
+            src: url('path/to/myriad-pro.woff2') format('woff2'),
+                url('path/to/myriad-pro.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+        
+        .myriad-pro-text {
+            font-family: 'MyriadPro', sans-serif;
+        }
+    </style>
 <br><br>
 
 # Certificates ✨
@@ -132,5 +144,5 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
+<h1 class="myriad-pro-text" >My Resume: </h1>
 <img src="https://iamprasadraju.github.io/MY-RESUME/My%20resume.png">

@@ -36,7 +36,7 @@
   <br>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js" />
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" alt="Python Badge">
   </a>
 </p>
 <div align = "left">

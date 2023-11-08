@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=My%20self%20Prasad%20Raju&height=100&width=device-width&section=header"/>
 </p>
 
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/iamprasadraju/iamprasadraju/assets/110875489/adfd4582-2483-4a66-86d4-b7a577c8518c)
 
 <div align="center">
   

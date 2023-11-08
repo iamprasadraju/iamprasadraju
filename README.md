@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=My%20self%20Prasad%20Raju&height=100&width=device-width&section=header"/>
+</p>
+
 <div align="center">
   
-# Prasad Raju G
 <img src = "https://iamprasadraju.github.io/social_media/about_me.gif" width = 150px>
 <br>
 <br>
@@ -148,3 +151,6 @@
 <center>
   <img src="https://certificates.cs50.io/d0afa6a6-cd2a-41c0-bfbc-64edeffd7fa8.png?size=letter" style="pointer-events:none;">
 </center>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=device-width&section=footer"/>
+</p>

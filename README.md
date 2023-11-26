@@ -150,7 +150,13 @@
 # 𝕮𝖊𝖗𝖙𝖎𝖋𝖎𝖈𝖆𝖙𝖊𝖘 ✨
 ### 𝓘𝓷𝓽𝓻𝓸𝓭𝓾𝓬𝓽𝓲𝓸𝓷 𝓽𝓸 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓶𝓲𝓷𝓰 𝔀𝓲𝓽𝓱 𝓟𝔂𝓽𝓱𝓸𝓷 𝓫𝔂 𝓗𝓪𝓻𝓿𝓪𝓻𝓭 𝓤𝓷𝓲𝓿𝓮𝓻𝓼𝓲𝓽𝔂:-
 <center>
+
   <img src="https://certificates.cs50.io/d0afa6a6-cd2a-41c0-bfbc-64edeffd7fa8.png?size=letter" style="pointer-events:none;">
+  
+![Coursera JETKY5XF4RJB](https://github.com/iamprasadraju/iamprasadraju/assets/110875489/eee64d32-35e4-464b-aeab-b0d055351979)
+
+![PRASAD RAJU G - Intro to Programming](https://github.com/iamprasadraju/iamprasadraju/assets/110875489/02783e2a-d4f7-41d0-9c7a-16dfd2a44b49)
+  
 </center>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=device-width&section=footer"/>

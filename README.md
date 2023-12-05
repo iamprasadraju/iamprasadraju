@@ -156,7 +156,10 @@
 ![Coursera JETKY5XF4RJB](https://github.com/iamprasadraju/iamprasadraju/assets/110875489/eee64d32-35e4-464b-aeab-b0d055351979)
 
 ![PRASAD RAJU G - Intro to Programming](https://github.com/iamprasadraju/iamprasadraju/assets/110875489/02783e2a-d4f7-41d0-9c7a-16dfd2a44b49)
-  
+
+![PRASAD RAJU G - Python](https://github.com/iamprasadraju/iamprasadraju/assets/110875489/1f98d650-3bd5-43d4-ab18-ba49cfe0f722)
+
+
 </center>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=device-width&section=footer"/>

@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=My%20self%20Prasad%20Raju&height=100&width=device-width&section=header"/>
-</p>
-
 
 <div align="center">
   
@@ -161,6 +157,3 @@
 
 
 </center>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=device-width&section=footer"/>
-</p>

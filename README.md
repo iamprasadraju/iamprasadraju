@@ -1,3 +1,3 @@
 *The light that found me in the night I was lost* - ``@geohot``
 
-`I love Internet and Macbook Air ❤️`
+`I love the Internet and the Macbook Air ❤️`

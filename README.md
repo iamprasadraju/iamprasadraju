@@ -15,7 +15,7 @@
 
 
 
-<blockquote>The light that found me in the night I was lost - @geohot</blockquote>
+<blockquote>The light that found me in the night I was lost &rarr; <a href="https://en.wikipedia.org/wiki/George_Hotz">George Hotz</a></blockquote>
 </div>
 
 

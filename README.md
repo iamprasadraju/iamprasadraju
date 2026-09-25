@@ -17,7 +17,7 @@
 <blockquote>The light that found me in the night I was lost &rarr; <a href="https://en.wikipedia.org/wiki/George_Hotz">George Hotz</a></blockquote>
 
 
-#### ❝People don't know what they want until you show it to them.❞ - Steve Jobs
+#### ❝People don't know what they want until you show it to them.❞ - [Steve Jobs](https://youtu.be/CeSAjK2CBEA?si=kjEyHRhMpv754BmK)
 
 
 
